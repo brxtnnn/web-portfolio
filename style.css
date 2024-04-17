@@ -159,8 +159,7 @@ li{
 
 .about-statement p{
     
-    font-size: 45px;
-    color: #ffc107;
+    color: black;
     font-style: italic;
     text-align: center;
 }
@@ -187,13 +186,13 @@ li{
     text-align: center;
 }
 
-.values-statement h3{
+.goals-statement h3{
     margin: 15px;
     color: red;
     text-align: center;
 }
 
-.values-statement p{
+.goals-statement p{
     margin: 15px;
     text-align: center;
 }
@@ -208,6 +207,7 @@ li{
 
 .contact h2{
     text-align: center;
+    background-color: lightblue;
 }
 
 fieldset{
@@ -227,7 +227,7 @@ legend{
 
 /* FOOTER */
 .main-footer{
-    background-color: #ffc107;
+    background-color: lightblue;
     height: 60px;
     padding: 0px;
     margin: 0;
